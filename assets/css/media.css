@@ -1,5 +1,22 @@
-@media only screen and (max-width:1000px) {
-    body {
-        color: red;
-    }
-}
+     /* @media Rule */
+     
+     @media only screen and (max-width:980px) {
+         #main-container,
+         #masthead {
+             width: 980px;
+         }
+     }
+     
+     @media only screen and (max-width:768px) {
+         #main-container,
+         #masthead {
+             width: 768px;
+         }
+     }
+     
+     @media only screen and (max-width:640px) {
+         #main-container,
+         #masthead {
+             width: 640px;
+         }
+     }

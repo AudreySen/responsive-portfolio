@@ -344,10 +344,3 @@
                         background: #4aaaa5;
                         border: 0 none;
                     }
-                    /* @media Rule */
-                    
-                    @media only screen and (max-width:1000px) {
-                        body {
-                            color: red;
-                        }
-                    }
